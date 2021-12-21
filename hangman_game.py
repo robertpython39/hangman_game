@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        Hangman
+# Purpose:     Fun
+#
+# Author:      nicolescu
+#
+# Created:     8/11/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
 import random
 
 print("Welcome to hangman! Let's play!")
